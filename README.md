@@ -1,4 +1,4 @@
-# tshy - TypeScript HYbridizer
+tshy - TypeScript HYbridizer
 
 Hybrid (CommonJS/ESM) TypeScript node package builder. Write
 modules that Just Work in ESM and CommonJS, in easy mode.
